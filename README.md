@@ -3,7 +3,8 @@
 ![Profile header](https://raw.githubusercontent.com/leoneba/leoneba/main/header-placeholder.png)
 
 ## About me
-I'm Leone — a practical, curious, and results-driven developer who cares about clean code, readable documentation, and building delightful experiences. I enjoy solving problems, learning new patterns, and contributing to open-source. I focus on clarity, testing, and delivering value.
+I'm Leone — a practical, curious, and results-driven developer who cares about clean code, readable documentation, and building delightful experiences. I enjoy solving problems, learning new patterns, and contributing to open-source. I focus on  
+clarity, testing, and delivering value.
 
 - 🔭 I’m currently working on: meaningful, real-world apps and developer tooling
 - 🌱 I’m learning: modern architecture patterns, performance tuning, and UX for developers
